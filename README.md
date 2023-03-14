@@ -4,7 +4,7 @@
 
 [01 Components and Props](https://github.com/brewchetta/022023-ph2-01-components-and-props)
 
-02 State and Events (coming soon)
+[02 State and Events](https://github.com/brewchetta/022023-ph2-02-state-and-events)
 
 03 Information Flow (coming soon)
 
