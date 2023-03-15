@@ -6,7 +6,7 @@
 
 [02 State and Events](https://github.com/brewchetta/022023-ph2-02-state-and-events)
 
-03 Information Flow (coming soon)
+[03 Information Flow](https://github.com/charliekozey/022023-ph2-03-information-flow)
 
 04 Forms and Controlled Components (coming soon)
 
