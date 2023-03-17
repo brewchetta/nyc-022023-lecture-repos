@@ -8,7 +8,7 @@
 
 [03 Information Flow](https://github.com/charliekozey/022023-ph2-03-information-flow)
 
-[04 Forms and Controlled Components]
+[04 Forms and Controlled Components](https://github.com/charliekozey/react-hooks-forms-lab)
 
 05 useEffect and Fetching (coming soon)
 
