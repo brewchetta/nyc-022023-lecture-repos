@@ -8,6 +8,8 @@
 
 [03 Information Flow](https://github.com/charliekozey/022023-ph2-03-information-flow)
 
+[Review: Hogwild](https://github.com/brewchetta/nyc-022023-ph-2-react-hogwild)
+
 [04 Forms and Controlled Components](https://github.com/charliekozey/react-hooks-forms-lab)
 
 05 useEffect and Fetching (coming soon)
