@@ -12,7 +12,7 @@
 
 [04 Forms and Controlled Components](https://github.com/charliekozey/react-hooks-forms-lab)
 
-05 useEffect and Fetching (coming soon)
+[05 useEffect and Fetching](https://github.com/brewchetta/022023-05-react-useeffect-and-fetching)
 
 06 PATCH and DELETE (coming soon)
 
