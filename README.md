@@ -14,11 +14,9 @@
 
 [05 useEffect and Fetching](https://github.com/brewchetta/022023-05-react-useeffect-and-fetching)
 
-06 PATCH and DELETE (coming soon)
+[06 Client Side Routing](https://github.com/brewchetta/022023-ph2-react-router-v6)
 
-Review Mock Code Challenge (coming soon)
-
-07 Client Side Routing (coming soon)
+07 PATCH and DELETE (coming soon)
 
 08 APIs and API Keys (coming soon)
 
