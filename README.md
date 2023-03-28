@@ -16,8 +16,6 @@
 
 [06 Client Side Routing](https://github.com/brewchetta/022023-ph2-react-router-v6)
 
-07 PATCH and DELETE (coming soon)
+[07 PATCH and DELETE](https://github.com/brewchetta/022023-nyc-ph2-07-patch-and-delete)
 
-08 APIs and API Keys (coming soon)
-
-09 Advanced Hooks (coming soon)
+08 Advanced Hooks (coming soon)
