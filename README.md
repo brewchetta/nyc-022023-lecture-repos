@@ -27,3 +27,5 @@
 [Review: Countdown to Midnight](https://github.com/brewchetta/022023-ph3-review-countdown-to-midnight)
 
 [02 Python Data Structures](https://github.com/brewchetta/022022-ph3-02-python-data-structures)
+
+[03 Object Oriented Programming](https://github.com/brewchetta/022023-ph3-03-object-oriented-programming)
