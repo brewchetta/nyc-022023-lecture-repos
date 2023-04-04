@@ -19,3 +19,11 @@
 [07 PATCH and DELETE](https://github.com/brewchetta/022023-nyc-ph2-07-patch-and-delete)
 
 08 Advanced Hooks (coming soon)
+
+## Phase 3
+
+[01 Python Fundamentals](https://github.com/brewchetta/022023-ph3-01-python-fundamentals)
+
+[Review: Countdown to Midnight](https://github.com/brewchetta/022023-ph3-review-countdown-to-midnight)
+
+[02 Python Data Structures](https://github.com/brewchetta/022022-ph3-02-python-data-structures)
