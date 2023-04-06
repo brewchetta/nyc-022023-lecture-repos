@@ -29,3 +29,5 @@
 [02 Python Data Structures](https://github.com/brewchetta/022022-ph3-02-python-data-structures)
 
 [03 Object Oriented Programming](https://github.com/brewchetta/022023-ph3-03-object-oriented-programming)
+
+[04 Object Oriented Programming Part 2](https://github.com/brewchetta/022023-ph3-04-object-oriented-programming-pt2_
