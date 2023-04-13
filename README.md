@@ -33,3 +33,5 @@
 [04 Object Oriented Programming Part 2](https://github.com/brewchetta/022023-ph3-04-object-oriented-programming-pt2)
 
 [05 Intro to SQL and SQLite3 in Python](https://github.com/brewchetta/022023-ph3-05-intro-to-sql)
+
+[06 SQL Joins and Associations](https://github.com/brewchetta/022023-ph3-06-sql-joins-and-associations)
