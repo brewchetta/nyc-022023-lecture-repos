@@ -35,3 +35,7 @@
 [05 Intro to SQL and SQLite3 in Python](https://github.com/brewchetta/022023-ph3-05-intro-to-sql)
 
 [06 SQL Joins and Associations](https://github.com/brewchetta/022023-ph3-06-sql-joins-and-associations)
+
+[07 Example CLI Project](https://github.com/brewchetta/022023-ph3-07-cli-example)
+
+[08 Intro to SQLAlchemy](https://github.com/brewchetta/022023-ph3-08-intro-to-sqlalchemy)
